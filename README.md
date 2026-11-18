@@ -287,4 +287,4 @@ Private project — All rights reserved.
 
 Built by Azahell Tech
 Contact: @AzahellNotifierbot (admin notifications)
-Support: https://devin.ai/support
+
